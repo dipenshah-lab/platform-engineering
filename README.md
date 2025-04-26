@@ -1,5 +1,11 @@
 # Platform Engineering
 
+![Cloud](https://img.shields.io/badge/Cloud-AWS%2FAzure-blue)
+![DevOps](https://img.shields.io/badge/DevOps-GitHub%20Actions%2FArgoCD-green)
+![Security](https://img.shields.io/badge/Security-Compliance%2FIAM-critical)
+![Data](https://img.shields.io/badge/Data-Streaming%2FETL-orange)
+![GenAI](https://img.shields.io/badge/GenAI-RAG%2FCrewAI-lightgrey)
+
 A curated portfolio showcasing practical platform engineering across:
 
 - Cloud Architecture
