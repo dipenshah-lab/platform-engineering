@@ -1,4 +1,0 @@
-openai
-ipywidgets
-python-dotenv
-ipython
