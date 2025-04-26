@@ -1,2 +1,4 @@
 openai
-jupyter
+ipywidgets
+python-dotenv
+ipython
