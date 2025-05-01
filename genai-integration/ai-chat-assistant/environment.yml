@@ -1,4 +1,4 @@
-name: azure-chat-assistant
+name: ai-chat-assistant
 channels:
   - defaults
   - conda-forge
